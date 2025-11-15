@@ -1,3 +1,0 @@
-Method,Dataset,Dataset_type,Model_type,Epsilon,Diversity_Threshold,Significance_Threshold,Distance,K_set,Accuracy,Precision,Recall,F1-score
-Our,SyntheticAdult,Synthetic_data_global_1,Synthetic_model,0.01,0.1,10,hamming,"25,50",0.8823529411763339,0.9999999999995902,0.7624999999997617,0.8652482269009558
-Our,SyntheticAdult,Synthetic_data_global_1,Synthetic_model,0.01,0.1,25,hamming,"25,50",0.8823529411763339,0.9999999999995902,0.7624999999997617,0.8652482269009558
