@@ -1,0 +1,101 @@
+sex,age,race,juv_fel_count,juv_misd_count,juv_other_count,priors_count,is_recid,is_violent_recid,custody,charge_desc,charge_degree,true_label,predicted_label
+Male,Greater than 45,African-American,0 juv fel,0 juv misd,0 juv others,10 priors or more,No,No,1-9 days,Other,Felony,Yes,Yes
+Female,Greater than 45,African-American,0 juv fel,0 juv misd,0 juv others,5-9 priors,No,No,10-29 days,Battery,Misdemeanor,No,Yes
+Male,25 - 45,African-American,0 juv fel,0 juv misd,0 juv others,1 priors,No,No,10-29 days,Other,Felony,No,Yes
+Female,25 - 45,Caucasian,0 juv fel,0 juv misd,0 juv others,1 priors,No,No,1-9 days,Battery,Misdemeanor,No,No
+Male,25 - 45,African-American,0 juv fel,0 juv misd,0 juv others,10 priors or more,No,No,1-12 months,Battery,Felony,Yes,Yes
+Male,25 - 45,Caucasian,0 juv fel,0 juv misd,0 juv others,5-9 priors,Yes,Yes,10-29 days,Battery,Misdemeanor,Yes,Yes
+Female,25 - 45,Other,0 juv fel,0 juv misd,0 juv others,0 priors,No,No,1-9 days,Battery,Misdemeanor,No,No
+Male,25 - 45,Caucasian,0 juv fel,0 juv misd,0 juv others,2-4 priors,No,No,1-9 days,Other,Felony,No,Yes
+Male,Greater than 45,Caucasian,0 juv fel,0 juv misd,0 juv others,0 priors,No,No,1-9 days,Battery,Felony,No,No
+Male,25 - 45,African-American,0 juv fel,0 juv misd,0 juv others,5-9 priors,No,No,1-9 days,Driving,Felony,Yes,Yes
+Male,Greater than 45,Caucasian,0 juv fel,0 juv misd,0 juv others,0 priors,No,No,1-12 months,Battery,Felony,No,No
+Male,25 - 45,African-American,0 juv fel,1 juv misd,0 juv others,2-4 priors,Yes,Yes,1-9 days,Battery,Misdemeanor,Yes,Yes
+Male,Greater than 45,Caucasian,0 juv fel,0 juv misd,0 juv others,2-4 priors,No,No,10-29 days,Drug Possess,Felony,No,Yes
+Male,25 - 45,African-American,0 juv fel,0 juv misd,0 juv others,2-4 priors,Yes,Yes,1-12 months,Other,Felony,Yes,Yes
+Male,25 - 45,Caucasian,0 juv fel,0 juv misd,0 juv others,1 priors,No,No,1-12 months,Driving,Misdemeanor,No,Yes
+Male,Less than 25,African-American,0 juv fel,1 juv misd,0 juv others,1 priors,No,No,1-9 days,Theft,Felony,Yes,Yes
+Male,25 - 45,African-American,0 juv fel,0 juv misd,0 juv others,2-4 priors,No,No,1-9 days,Battery,Misdemeanor,No,No
+Male,25 - 45,Caucasian,0 juv fel,0 juv misd,0 juv others,5-9 priors,No,No,1-12 months,Driving,Felony,No,Yes
+Male,Less than 25,Caucasian,0 juv fel,0 juv misd,0 juv others,0 priors,No,No,0 days,Theft,Felony,Yes,No
+Male,25 - 45,Caucasian,0 juv fel,0 juv misd,0 juv others,0 priors,No,No,1-12 months,Theft,Felony,Yes,Yes
+Male,25 - 45,African-American,0 juv fel,0 juv misd,0 juv others,2-4 priors,No,No,1-12 months,Other,Misdemeanor,No,Yes
+Male,25 - 45,Caucasian,0 juv fel,0 juv misd,0 juv others,2-4 priors,No,No,1-12 months,Other,Felony,Yes,Yes
+Male,Greater than 45,Caucasian,0 juv fel,0 juv misd,0 juv others,0 priors,No,No,1-9 days,Theft,Felony,No,No
+Male,Less than 25,African-American,0 juv fel,0 juv misd,1 juv others,1 priors,No,No,1-9 days,Drug Traffic,Felony,Yes,Yes
+Male,25 - 45,African-American,0 juv fel,0 juv misd,0 juv others,10 priors or more,No,No,1-12 months,Theft,Felony,Yes,Yes
+Male,25 - 45,Caucasian,0 juv fel,0 juv misd,0 juv others,1 priors,No,No,1-9 days,Battery,Misdemeanor,No,Yes
+Male,25 - 45,African-American,0 juv fel,0 juv misd,0 juv others,2-4 priors,No,No,10-29 days,Tampering,Felony,Yes,Yes
+Male,25 - 45,Caucasian,0 juv fel,0 juv misd,0 juv others,0 priors,No,No,1-9 days,Battery,Misdemeanor,Yes,No
+Male,Less than 25,African-American,0 juv fel,0 juv misd,0 juv others,1 priors,Yes,Yes,1-9 days,Other,Felony,Yes,Yes
+Male,25 - 45,Caucasian,0 juv fel,0 juv misd,0 juv others,1 priors,No,No,10-29 days,Drug Possess,Misdemeanor,Yes,Yes
+Male,25 - 45,Hispanic,0 juv fel,0 juv misd,0 juv others,2-4 priors,Yes,Yes,1-9 days,Other,Felony,Yes,Yes
+Male,Greater than 45,Caucasian,0 juv fel,0 juv misd,0 juv others,0 priors,No,No,10-29 days,Driving,Misdemeanor,Yes,No
+Male,25 - 45,African-American,2-4 juv fel,0 juv misd,0 juv others,10 priors or more,Yes,Yes,1-12 months,Drug Possess,Misdemeanor,Yes,Yes
+Female,25 - 45,Caucasian,0 juv fel,0 juv misd,0 juv others,0 priors,No,No,1-9 days,Family Crime,Felony,Yes,No
+Male,Greater than 45,Caucasian,0 juv fel,0 juv misd,0 juv others,5-9 priors,No,No,1-9 days,Driving,Misdemeanor,Yes,Yes
+Male,25 - 45,African-American,0 juv fel,0 juv misd,0 juv others,5-9 priors,Yes,Yes,1-9 days,Drug Traffic,Felony,Yes,Yes
+Female,25 - 45,African-American,0 juv fel,0 juv misd,0 juv others,1 priors,No,No,1-9 days,Other,Felony,No,No
+Female,25 - 45,African-American,0 juv fel,1 juv misd,0 juv others,5-9 priors,No,No,1-12 months,Drug Possess,Felony,No,Yes
+Female,25 - 45,Hispanic,0 juv fel,0 juv misd,0 juv others,0 priors,No,No,1-9 days,Damage,Misdemeanor,Yes,No
+Male,25 - 45,African-American,0 juv fel,0 juv misd,1 juv others,5-9 priors,No,No,1-2 years,Other,Misdemeanor,Yes,Yes
+Female,Less than 25,Caucasian,0 juv fel,0 juv misd,0 juv others,0 priors,No,No,1-9 days,Battery,Misdemeanor,Yes,No
+Male,25 - 45,Caucasian,0 juv fel,0 juv misd,0 juv others,2-4 priors,No,No,1-12 months,Tampering,Felony,Yes,Yes
+Male,25 - 45,African-American,0 juv fel,0 juv misd,0 juv others,5-9 priors,No,No,1-12 months,Drug Traffic,Felony,Yes,Yes
+Male,25 - 45,Other,0 juv fel,0 juv misd,0 juv others,2-4 priors,No,No,0 days,Drug Possess,Felony,No,No
+Male,Less than 25,African-American,0 juv fel,0 juv misd,0 juv others,5-9 priors,Yes,Yes,1-12 months,Other,Misdemeanor,Yes,Yes
+Female,Less than 25,African-American,0 juv fel,0 juv misd,1 juv others,0 priors,No,No,1-9 days,Theft,Felony,Yes,No
+Male,25 - 45,African-American,0 juv fel,0 juv misd,0 juv others,2-4 priors,No,No,1-9 days,Other,Felony,No,Yes
+Female,Less than 25,African-American,0 juv fel,0 juv misd,0 juv others,1 priors,Yes,Yes,1-12 months,Drug Traffic,Felony,Yes,Yes
+Male,Less than 25,African-American,1 juv fel,0 juv misd,0 juv others,2-4 priors,No,No,1-9 days,Fraud,Felony,Yes,Yes
+Male,Less than 25,Caucasian,0 juv fel,0 juv misd,1 juv others,1 priors,No,No,1-9 days,Damage,Misdemeanor,No,Yes
+Female,25 - 45,African-American,0 juv fel,0 juv misd,0 juv others,10 priors or more,Yes,Yes,1-12 months,Other,Felony,Yes,Yes
+Male,25 - 45,African-American,0 juv fel,0 juv misd,0 juv others,0 priors,Yes,Yes,1-9 days,Battery,Misdemeanor,Yes,Yes
+Male,25 - 45,Hispanic,0 juv fel,0 juv misd,0 juv others,2-4 priors,No,No,1-12 months,Other,Felony,Yes,Yes
+Male,25 - 45,African-American,0 juv fel,0 juv misd,0 juv others,1 priors,Yes,Yes,0 days,Drug Traffic,Felony,Yes,Yes
+Male,25 - 45,Caucasian,0 juv fel,0 juv misd,1 juv others,1 priors,No,No,1-9 days,Fraud,Felony,No,Yes
+Male,25 - 45,Other,0 juv fel,0 juv misd,0 juv others,0 priors,No,No,1-9 days,Family Crime,Felony,No,No
+Male,25 - 45,African-American,0 juv fel,0 juv misd,0 juv others,0 priors,No,No,0 days,Family Crime,Misdemeanor,Yes,No
+Female,Greater than 45,Caucasian,0 juv fel,0 juv misd,0 juv others,0 priors,No,No,0 days,Driving,Misdemeanor,No,No
+Female,Less than 25,Hispanic,0 juv fel,0 juv misd,0 juv others,1 priors,No,No,10-29 days,Other,Misdemeanor,No,No
+Male,25 - 45,Caucasian,0 juv fel,0 juv misd,0 juv others,0 priors,No,No,1-9 days,Battery,Misdemeanor,No,No
+Male,Greater than 45,Caucasian,0 juv fel,0 juv misd,0 juv others,0 priors,No,No,1-9 days,Family Crime,Misdemeanor,Yes,No
+Male,25 - 45,African-American,0 juv fel,0 juv misd,0 juv others,5-9 priors,No,No,10-29 days,Other,Felony,No,Yes
+Male,25 - 45,Caucasian,0 juv fel,0 juv misd,0 juv others,1 priors,No,No,1-9 days,Other,Felony,No,Yes
+Male,Less than 25,African-American,0 juv fel,0 juv misd,0 juv others,2-4 priors,No,No,1-9 days,Battery,Misdemeanor,No,No
+Male,25 - 45,African-American,0 juv fel,0 juv misd,0 juv others,2-4 priors,No,No,1-9 days,Driving,Felony,Yes,Yes
+Male,Greater than 45,African-American,0 juv fel,0 juv misd,0 juv others,10 priors or more,No,No,1-12 months,Drug Possess,Misdemeanor,Yes,Yes
+Male,25 - 45,Caucasian,0 juv fel,0 juv misd,0 juv others,2-4 priors,No,No,1-9 days,Battery,Misdemeanor,No,No
+Male,25 - 45,African-American,0 juv fel,0 juv misd,0 juv others,0 priors,No,No,1-12 months,Drug Possess,Felony,No,Yes
+Female,25 - 45,Caucasian,0 juv fel,0 juv misd,0 juv others,0 priors,No,No,1-9 days,Assault,Felony,No,No
+Male,25 - 45,African-American,0 juv fel,0 juv misd,0 juv others,5-9 priors,Yes,Yes,1-12 months,Driving,Felony,Yes,Yes
+Male,Greater than 45,Caucasian,0 juv fel,0 juv misd,0 juv others,5-9 priors,No,No,1-9 days,Drug Possess,Felony,Yes,Yes
+Male,25 - 45,African-American,0 juv fel,0 juv misd,0 juv others,1 priors,No,No,0 days,Drug Possess,Felony,No,Yes
+Male,Less than 25,African-American,0 juv fel,0 juv misd,0 juv others,1 priors,No,No,0 days,Drug Possess,Felony,Yes,No
+Female,25 - 45,African-American,0 juv fel,0 juv misd,0 juv others,5-9 priors,No,No,0 days,Battery,Felony,No,Yes
+Male,25 - 45,Caucasian,0 juv fel,0 juv misd,0 juv others,1 priors,No,No,0 days,Other,Felony,No,Yes
+Male,Less than 25,African-American,1 juv fel,0 juv misd,1 juv others,1 priors,No,No,1-12 months,Other,Felony,Yes,Yes
+Male,25 - 45,African-American,0 juv fel,1 juv misd,0 juv others,5-9 priors,No,No,1-9 days,Theft,Felony,No,Yes
+Male,25 - 45,African-American,0 juv fel,0 juv misd,0 juv others,5-9 priors,No,No,10-29 days,Firearm,Felony,Yes,Yes
+Female,25 - 45,Caucasian,0 juv fel,0 juv misd,0 juv others,1 priors,No,No,1-9 days,Tampering,Felony,No,No
+Male,25 - 45,African-American,0 juv fel,0 juv misd,0 juv others,1 priors,No,No,1-9 days,Other,Felony,Yes,Yes
+Female,Less than 25,African-American,0 juv fel,0 juv misd,0 juv others,0 priors,Yes,Yes,10-29 days,Drug Possess,Felony,Yes,Yes
+Male,Greater than 45,Caucasian,0 juv fel,0 juv misd,0 juv others,5-9 priors,No,No,1-9 days,Battery,Misdemeanor,Yes,Yes
+Female,Greater than 45,Caucasian,0 juv fel,0 juv misd,0 juv others,1 priors,No,No,1-9 days,Driving,Misdemeanor,No,No
+Male,25 - 45,African-American,0 juv fel,0 juv misd,0 juv others,1 priors,No,No,5 years or more,Other,Felony,Yes,Yes
+Male,Greater than 45,African-American,0 juv fel,0 juv misd,0 juv others,10 priors or more,No,No,1-2 years,Firearm,Felony,Yes,Yes
+Male,25 - 45,Other,0 juv fel,0 juv misd,0 juv others,0 priors,Yes,Yes,1-9 days,Other,Felony,Yes,Yes
+Male,Greater than 45,Caucasian,0 juv fel,0 juv misd,0 juv others,2-4 priors,Yes,Yes,0 days,Battery,Misdemeanor,Yes,Yes
+Male,25 - 45,Caucasian,0 juv fel,0 juv misd,0 juv others,0 priors,No,No,1-9 days,Drug Possess,Felony,No,No
+Male,Greater than 45,Caucasian,0 juv fel,0 juv misd,0 juv others,0 priors,No,No,1-9 days,Theft,Felony,No,No
+Male,Less than 25,African-American,0 juv fel,0 juv misd,1 juv others,1 priors,No,No,1-9 days,Drug Possess,Felony,No,Yes
+Male,Greater than 45,Caucasian,0 juv fel,0 juv misd,0 juv others,1 priors,Yes,Yes,1-12 months,Drug Possess,Felony,Yes,Yes
+Male,25 - 45,African-American,0 juv fel,0 juv misd,0 juv others,1 priors,No,No,0 days,Battery,Misdemeanor,No,No
+Male,25 - 45,Caucasian,0 juv fel,0 juv misd,0 juv others,5-9 priors,No,No,1-9 days,Drug Possess,Felony,Yes,Yes
+Female,Greater than 45,African-American,0 juv fel,0 juv misd,0 juv others,2-4 priors,No,No,0 days,Other,Felony,No,No
+Male,25 - 45,African-American,0 juv fel,0 juv misd,0 juv others,2-4 priors,No,No,3-4 years,Other,Misdemeanor,No,Yes
+Male,25 - 45,African-American,0 juv fel,1 juv misd,0 juv others,5-9 priors,No,No,1-12 months,Other,Misdemeanor,No,Yes
+Male,25 - 45,African-American,0 juv fel,0 juv misd,0 juv others,2-4 priors,No,No,0 days,Drug Possess,Misdemeanor,No,No
+Male,25 - 45,African-American,0 juv fel,0 juv misd,0 juv others,1 priors,No,No,10-29 days,Driving,Felony,No,Yes
+Female,Greater than 45,Hispanic,0 juv fel,0 juv misd,0 juv others,2-4 priors,No,No,1-12 months,Other,Misdemeanor,Yes,No
+Male,Greater than 45,Hispanic,0 juv fel,0 juv misd,0 juv others,0 priors,No,No,1-9 days,Battery,Felony,Yes,No
